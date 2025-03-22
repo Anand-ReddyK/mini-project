@@ -22,3 +22,7 @@
    ```
    python app.py
    ```
+5. **Open the URL below in your browser and submit the youtube URL to analyze**
+   ```
+   http://127.0.0.1:5000
+   ```
